@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goFresh/static/css/main.073c9b0a.css",
+    "main.js": "/goFresh/static/js/main.55ec1aae.js",
+    "static/js/787.b61d283c.chunk.js": "/goFresh/static/js/787.b61d283c.chunk.js",
+    "static/media/logo.png": "/goFresh/static/media/logo.fdf59d5494326de28558.png",
+    "index.html": "/goFresh/index.html",
+    "main.073c9b0a.css.map": "/goFresh/static/css/main.073c9b0a.css.map",
+    "main.55ec1aae.js.map": "/goFresh/static/js/main.55ec1aae.js.map",
+    "787.b61d283c.chunk.js.map": "/goFresh/static/js/787.b61d283c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.55ec1aae.js"
+  ]
+}
